@@ -1,0 +1,434 @@
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:04:57: url: / returns 200
+29.04.2020-14:04:57: url: /Catalog/Page_4 returns 200
+29.04.2020-14:04:57: url: /js/site.js?v=eM9ibE9YpdD-JZpdPqxgih5aMbN3u_4mJQsCHSAdNJM returns 200
+29.04.2020-14:04:57: url: /css/site.css returns 200
+29.04.2020-14:04:57: url: /lib/jquery/dist/jquery.min.js returns 200
+29.04.2020-14:04:57: url: /lib/font-awesome/css/font-awesome.min.css returns 200
+29.04.2020-14:04:57: url: /lib/bootstrap/dist/js/bootstrap.bundle.min.js returns 200
+29.04.2020-14:04:57: url: /lib/bootstrap/dist/css/bootstrap.min.css returns 200
+29.04.2020-14:04:57: url: /lib/font-awesome/css/font-awesome.css returns 200
+29.04.2020-14:04:57: url: /lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 returns 200
+29.04.2020-14:04:57: url: /Image/GetAvatar returns 200
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:05:45: url: / returns 200
+29.04.2020-14:05:45: url: / returns 200
+29.04.2020-14:05:45: url: /css/site.css returns 200
+29.04.2020-14:05:45: url: /css/site.css returns 200
+29.04.2020-14:05:45: url: /js/site.js?v=eM9ibE9YpdD-JZpdPqxgih5aMbN3u_4mJQsCHSAdNJM returns 200
+29.04.2020-14:05:45: url: /lib/font-awesome/css/font-awesome.min.css returns 200
+29.04.2020-14:05:45: url: /lib/font-awesome/css/font-awesome.min.css returns 200
+29.04.2020-14:05:45: url: /lib/bootstrap/dist/css/bootstrap.min.css returns 200
+29.04.2020-14:05:45: url: /lib/bootstrap/dist/js/bootstrap.bundle.min.js returns 200
+29.04.2020-14:05:46: url: /lib/jquery/dist/jquery.min.js returns 200
+29.04.2020-14:05:45: url: /lib/font-awesome/css/font-awesome.css returns 200
+29.04.2020-14:05:46: url: /lib/bootstrap/dist/js/bootstrap.bundle.min.js returns 200
+29.04.2020-14:05:45: url: /lib/font-awesome/css/font-awesome.css returns 200
+29.04.2020-14:05:45: url: /lib/jquery/dist/jquery.min.js returns 200
+29.04.2020-14:05:45: url: /lib/bootstrap/dist/css/bootstrap.min.css returns 200
+29.04.2020-14:05:46: url: /js/site.js?v=eM9ibE9YpdD-JZpdPqxgih5aMbN3u_4mJQsCHSAdNJM returns 200
+29.04.2020-14:05:46: url: /lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 returns 200
+29.04.2020-14:05:46: url: /lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 returns 200
+29.04.2020-14:05:45: url: /Image/GetAvatar returns 200
+29.04.2020-14:05:46: url: /Image/GetAvatar returns 200
+29.04.2020-14:06:02: url: /api/Tehnika returns 404
+29.04.2020-14:06:09: url: /api/Tehnikas returns 200
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:06:23: url: / returns 200
+29.04.2020-14:06:23: url: /api/Tehnikas returns 200
+29.04.2020-14:06:27: url: /api/Tehnikas/3 returns 200
+29.04.2020-14:06:38: url: /api/Tehnikas/31 returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:08:52: url: / returns 200
+29.04.2020-14:08:52: url: /api/Tehnikas/31 returns 404
+29.04.2020-14:09:11: url: /api/Tehnikas?group=3 returns 200
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:10:37: url: / returns 200
+29.04.2020-14:10:37: url: /js/site.js?v=eM9ibE9YpdD-JZpdPqxgih5aMbN3u_4mJQsCHSAdNJM returns 200
+29.04.2020-14:10:37: url: /css/site.css returns 200
+29.04.2020-14:10:37: url: /lib/font-awesome/css/font-awesome.min.css returns 200
+29.04.2020-14:10:37: url: /lib/jquery/dist/jquery.min.js returns 200
+29.04.2020-14:10:37: url: /lib/bootstrap/dist/js/bootstrap.bundle.min.js returns 200
+29.04.2020-14:10:37: url: /lib/font-awesome/css/font-awesome.css returns 200
+29.04.2020-14:10:37: url: /lib/bootstrap/dist/css/bootstrap.min.css returns 200
+29.04.2020-14:10:37: url: /api/Tehnikas?group=3 returns 200
+29.04.2020-14:10:37: url: /Image/GetAvatar returns 200
+29.04.2020-14:10:37: url: /lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 returns 200
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:37:06: url: /js/site.js?v=vphx9aObYpavdkAyjwSBu3Lyb7NVeAvChBGEoe2dlrk returns 304
+29.04.2020-14:37:06: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:37:08: url: /js/site.js?v=vphx9aObYpavdkAyjwSBu3Lyb7NVeAvChBGEoe2dlrk returns 304
+29.04.2020-14:37:11: url: /js/site.js?v=vphx9aObYpavdkAyjwSBu3Lyb7NVeAvChBGEoe2dlrk returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:37:38: url: /js/site.js?v=0NoX1JSpQ3biDuTgCBskXTKdXcVj1fWvznbDieqM_H0 returns 304
+29.04.2020-14:37:39: url: /js/site.js?v=0NoX1JSpQ3biDuTgCBskXTKdXcVj1fWvznbDieqM_H0 returns 304
+29.04.2020-14:37:40: url: /js/site.js?v=0NoX1JSpQ3biDuTgCBskXTKdXcVj1fWvznbDieqM_H0 returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:38:13: url: /js/site.js?v=BtBpXXPYGYikZhfe-3dfSwesLPhOkM-hyYoKrdf4PWo returns 304
+29.04.2020-14:38:18: url: /js/site.js?v=BtBpXXPYGYikZhfe-3dfSwesLPhOkM-hyYoKrdf4PWo returns 304
+29.04.2020-14:38:20: url: /js/site.js?v=BtBpXXPYGYikZhfe-3dfSwesLPhOkM-hyYoKrdf4PWo returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:38:36: url: /js/site.js?v=H2cNKACZ3wgCRkC1NwEst4g8BP2RBjQTKd26KtHl0m4 returns 304
+29.04.2020-14:38:41: url: /js/site.js?v=H2cNKACZ3wgCRkC1NwEst4g8BP2RBjQTKd26KtHl0m4 returns 304
+29.04.2020-14:38:48: url: /js/site.js?v=H2cNKACZ3wgCRkC1NwEst4g8BP2RBjQTKd26KtHl0m4 returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:41:15: url: /Admin/Edit/1 returns 302
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:51:14: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:16: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:19: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:20: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:22: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:23: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:24: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:25: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:51:26: url: /Tehniks/GetTehniks returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:52:21: url: /Tehniks/GetTehniks returns 404
+29.04.2020-14:52:22: url: /Tehniks/GetTehniks returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:53:01: url: /ApiDemo returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\berez\Documents\D\Web\WebLabs_sol\WebLabs
+29.04.2020-14:55:04: url: /Cart/Add/4?returnUrl=%2FCatalog%2FPage_2 returns 302
+29.04.2020-14:55:12: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+29.04.2020-14:55:17: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+29.04.2020-14:55:21: url: /Cart/delete/1 returns 302
+29.04.2020-14:55:21: url: /Cart/delete/4 returns 302
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-12:48:06 PM: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+6/21/2020-12:48:06 PM: url: /Account/Login?ReturnUrl=%2FCart%2FAdd%2F1%3FreturnUrl%3D%252FCatalog returns 404
+6/21/2020-12:48:10 PM: url: /Account/Login?ReturnUrl=%2FCart%2FAdd%2F1%3FreturnUrl%3D%252FCatalog returns 404
+6/21/2020-12:48:16 PM: url: /Cart/Add/19?returnUrl=%2FCatalog%2FPage_7 returns 302
+6/21/2020-12:48:16 PM: url: /Account/Login?ReturnUrl=%2FCart%2FAdd%2F19%3FreturnUrl%3D%252FCatalog%252FPage_7 returns 404
+6/21/2020-12:48:40 PM: url: /Cart/Add/12?returnUrl=%2FCatalog%2FPage_1%3Fgroup%3D1 returns 302
+6/21/2020-12:48:40 PM: url: /Account/Login?ReturnUrl=%2FCart%2FAdd%2F12%3FreturnUrl%3D%252FCatalog%252FPage_1%253Fgroup%253D1 returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-2:53:19 PM: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+6/21/2020-2:53:20 PM: url: /Account/Login?ReturnUrl=%2FCart%2FAdd%2F1%3FreturnUrl%3D%252FCatalog returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-3:39:59 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 404
+6/21/2020-3:40:47 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-3:48:14 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-3:52:05 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-3:53:14 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-4:01:32 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-4:01:36 PM: url: /images/%D0%94%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0 returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-4:02:46 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-4:02:59 PM: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+6/21/2020-4:02:59 PM: url: /Account/Login?ReturnUrl=%2FCart%2FAdd%2F1%3FreturnUrl%3D%252FCatalog returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+User logged in.
+6/21/2020-4:57:32 PM: url: /Identity/Account/Login returns 302
+6/21/2020-4:57:40 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-4:57:41 PM: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+6/21/2020-4:57:48 PM: url: /Cart/delete/1 returns 302
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-5:13:56 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-5:13:59 PM: url: /images/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-5:20:38 PM: url: /images/%D0%9F%D0%BB%D0%B8%D1%82%D0%B0.jpg returns 304
+6/21/2020-5:20:40 PM: url: /images/%D0%9F%D0%BE%D1%81%D1%83%D0%B4%D0%BE%D0%BC%D0%BE%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-5:27:12 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-5:27:14 PM: url: /images/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0.jpg returns 304
+6/21/2020-5:27:14 PM: url: /images/%D0%9F%D0%BE%D1%81%D1%83%D0%B4%D0%BE%D0%BC%D0%BE%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg returns 304
+6/21/2020-5:27:20 PM: url: /images/%D0%9F%D0%BB%D0%B8%D1%82%D0%B0.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-5:30:51 PM: url: /images/%D0%9F%D0%BE%D1%81%D1%83%D0%B4%D0%BE%D0%BC%D0%BE%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg returns 304
+6/21/2020-5:30:53 PM: url: /images/%D0%92%D1%8B%D1%82%D1%8F%D0%B6%D0%BA%D0%B0.jpg returns 304
+6/21/2020-5:30:53 PM: url: /images/%D0%A7%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-5:30:56 PM: url: /images/%D0%9F%D0%BB%D0%B8%D1%82%D0%B0.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-5:46:35 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-5:46:38 PM: url: /images/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-5:57:30 PM: url: /images/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80.jpg returns 304
+6/21/2020-5:57:30 PM: url: /images/%D0%9F%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81.jpg returns 304
+6/21/2020-5:57:30 PM: url: /images/%D0%A3%D1%82%D1%8E%D0%B3.jpg returns 304
+6/21/2020-5:57:49 PM: url: /images/%D0%92%D1%8B%D1%82%D1%8F%D0%B6%D0%BA%D0%B0.jpg returns 304
+6/21/2020-5:57:49 PM: url: /images/%D0%A7%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-5:57:49 PM: url: /images/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-6:01:53 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-6:01:53 PM: url: /images/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:01:53 PM: url: /images/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg returns 304
+6/21/2020-6:01:56 PM: url: /images/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%BA%D0%BE%D1%81%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-6:04:09 PM: url: /images/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg returns 304
+6/21/2020-6:04:09 PM: url: /images/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:04:11 PM: url: /images/%D0%A2%D1%80%D0%B8%D0%BC%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:04:11 PM: url: /images/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%BA%D0%BE%D1%81%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-6:05:14 PM: url: /images/%D0%A2%D1%80%D0%B8%D0%BC%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%9C%D1%8B%D1%88%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%9F%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B8.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%9F%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%A3%D1%82%D1%8E%D0%B3.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%A1%D1%82%D0%B8%D1%80%D0%B0%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%92%D1%8B%D1%82%D1%8F%D0%B6%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%9F%D0%BE%D1%81%D1%83%D0%B4%D0%BE%D0%BC%D0%BE%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%9F%D0%BB%D0%B8%D1%82%D0%B0.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%A7%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%BA%D0%BE%D1%81%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:05:16 PM: url: /images/%D0%A1%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:05:31 PM: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+6/21/2020-6:05:32 PM: url: /images/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg returns 304
+6/21/2020-6:05:32 PM: url: /Cart/Add/3?returnUrl=%2FCatalog returns 302
+6/21/2020-6:05:34 PM: url: /Product/UserProducts returns 404
+6/21/2020-6:05:42 PM: url: /Product/UserProducts returns 404
+6/21/2020-6:05:49 PM: url: /Product/UserProducts returns 404
+6/21/2020-6:06:07 PM: url: /Product/UserProducts returns 404
+6/21/2020-6:06:19 PM: url: /Cart/delete/1 returns 302
+6/21/2020-6:06:21 PM: url: /Product/UserProducts returns 404
+6/21/2020-6:06:25 PM: url: /Cart/delete/3 returns 302
+6/21/2020-6:06:27 PM: url: /Product/UserProducts returns 404
+6/21/2020-6:06:32 PM: url: /images/%D0%9C%D1%8B%D1%88%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:06:32 PM: url: /images/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:06:32 PM: url: /images/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B8.jpg returns 304
+6/21/2020-6:06:32 PM: url: /images/%D0%9F%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:06:32 PM: url: /images/%D0%A2%D1%80%D0%B8%D0%BC%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:06:32 PM: url: /images/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%BA%D0%BE%D1%81%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 304
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-6:15:14 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-6:15:14 PM: url: /images/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:15:14 PM: url: /images/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg returns 304
+6/21/2020-6:15:15 PM: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+6/21/2020-6:15:16 PM: url: /Cart/Add/2?returnUrl=%2FCatalog returns 302
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-6:19:15 PM: url: /images/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:19:15 PM: url: /images/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg returns 304
+6/21/2020-6:19:17 PM: url: /Cart/Add/1?returnUrl=%2FCatalog returns 302
+6/21/2020-6:19:20 PM: url: /Cart/Add/2?returnUrl=%2FCatalog returns 302
+6/21/2020-6:19:23 PM: url: /Product/UserProducts returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-6:32:47 PM: url: /images/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%9F%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B8.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:32:48 PM: url: /images/%D0%9F%D0%BE%D1%81%D1%83%D0%B4%D0%BE%D0%BC%D0%BE%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%A1%D1%82%D0%B8%D1%80%D0%B0%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%9C%D1%8B%D1%88%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%A2%D1%80%D0%B8%D0%BC%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:32:47 PM: url: /images/%D0%9F%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81.jpg returns 304
+6/21/2020-6:32:48 PM: url: /images/%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:32:48 PM: url: /images/%D0%A7%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-6:32:48 PM: url: /images/%D0%92%D1%8B%D1%82%D1%8F%D0%B6%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:32:48 PM: url: /images/%D0%A1%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:32:48 PM: url: /images/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%BA%D0%BE%D1%81%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:32:48 PM: url: /images/%D0%9F%D0%BB%D0%B8%D1%82%D0%B0.jpg returns 304
+6/21/2020-6:32:48 PM: url: /images/%D0%A3%D1%82%D1%8E%D0%B3.jpg returns 304
+6/21/2020-6:32:59 PM: url: /Admin/Edit/1 returns 302
+6/21/2020-6:33:23 PM: url: /Product/UserProducts returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-6:41:31 PM: url: /images/%D0%9C%D0%BE%D0%BD%D0%B8%D1%82%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:41:31 PM: url: /images/%D0%9A%D0%BB%D0%B0%D0%B2%D0%B8%D0%B0%D1%82%D1%83%D1%80%D0%B0.jpg returns 304
+6/21/2020-6:41:34 PM: url: /Cart/Add/2?returnUrl=%2FCatalog returns 302
+User logged out.
+6/21/2020-6:41:38 PM: url: /Identity/Account/Logout?returnurl=%2FCatalog returns 302
+User logged in.
+6/21/2020-6:41:56 PM: url: /Identity/Account/Login returns 302
+6/21/2020-6:42:00 PM: url: /images/%D0%9C%D1%8B%D1%88%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%BA%D0%B8.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%A1%D1%82%D0%B8%D1%80%D0%B0%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%A2%D0%B5%D0%BB%D0%B5%D0%B2%D0%B8%D0%B7%D0%BE%D1%80.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%9F%D1%80%D0%B8%D0%BD%D1%82%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%A2%D1%80%D0%B8%D0%BC%D0%B5%D1%80.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%9F%D1%8B%D0%BB%D0%B5%D1%81%D0%BE%D1%81.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%A3%D1%82%D1%8E%D0%B3.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%9F%D0%BE%D1%81%D1%83%D0%B4%D0%BE%D0%BC%D0%BE%D0%B5%D1%87%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%B0.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%A1%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%9F%D0%BB%D0%B8%D1%82%D0%B0.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%A7%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B2%D0%BE%D0%BB%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%92%D1%8B%D1%82%D1%8F%D0%B6%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:42:00 PM: url: /images/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%BA%D0%BE%D1%81%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:42:25 PM: url: /Product/UserProducts returns 404
+6/21/2020-6:42:26 PM: url: /Product/UserProducts returns 404
+6/21/2020-6:42:27 PM: url: /Product/UserProducts returns 404
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: G:\Учеба\WebLabs_sol\WebLabs_sol\WebLabs
+6/21/2020-6:45:04 PM: url: /Admin/Create returns 302
+6/21/2020-6:45:06 PM: url: /images/ returns 404
+6/21/2020-6:45:13 PM: url: /Admin/Create returns 302
+6/21/2020-6:45:13 PM: url: /images/ returns 404
+6/21/2020-6:45:22 PM: url: /Admin/Create returns 302
+6/21/2020-6:45:22 PM: url: /images/ returns 404
+6/21/2020-6:45:35 PM: url: /images/ returns 404
+6/21/2020-6:45:54 PM: url: /Admin/Create returns 302
+6/21/2020-6:45:54 PM: url: /images/ returns 404
+6/21/2020-6:45:54 PM: url: /images/%D0%93%D0%B0%D0%B7%D0%BE%D0%BD%D0%BE%D0%BA%D0%BE%D1%81%D0%B8%D0%BB%D0%BA%D0%B0.jpg returns 304
+6/21/2020-6:46:03 PM: url: /Admin/Delete/20 returns 302
+6/21/2020-6:46:04 PM: url: /images/ returns 404
+6/21/2020-6:46:12 PM: url: /Admin/Delete/21 returns 302
+6/21/2020-6:46:12 PM: url: /images/ returns 404
+6/21/2020-6:46:16 PM: url: /Admin/Delete/22 returns 302
+6/21/2020-6:46:17 PM: url: /images/ returns 404
